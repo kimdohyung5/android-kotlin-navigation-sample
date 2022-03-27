@@ -4,4 +4,5 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hello_list_fragment">hello list fragment</string>
     <string name="hello_detail_fragment">hello detail fragment</string>
+    <string name="error_message_network">네트워크접속 불량</string>
 </resources>
